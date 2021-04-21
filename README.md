@@ -2,7 +2,7 @@ This is a simple device tracking app for demo purposes, please do not use it in 
 
 ## App menu
 There is a spped dial botton at the bottom right corner of the screen, it can be used to navigate through all pages. Note that clicking it while the speed dial menu is open will return to Home page.
-![Menu](https://github.com/yuyenchu/wasa_code_challenge/blob/master/showcase/sppedDial.png)
+![Menu](https://github.com/yuyenchu/wasa_code_challenge/blob/master/showcase/speedDial.png)
 
 ## Home page
 A mock up welcoming page, there is a QR code and a link for "registering" devices.
