@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "name": "my phone",
+        "type": "phone",
+        "model": "iPhone4",
+        "longitude": "-73.93541",
+        "latitude": "40.740914",
+        "power": "30"
+    },
+    {
+        "id": 1,
+        "name": "my mac",
+        "type": "computer",
+        "model": "MacBook Air",
+        "longitude": "-73.935526",
+        "latitude": "40.730761",
+        "power": "90"
+    },
+    {
+        "id": 2,
+        "name": "my desktop",
+        "type": "computer",
+        "model": "Dell OptiPlex ",
+        "longitude": "-73.945284",
+        "latitude": "40.741124",
+        "power": "100"
+    },
+    {
+        "id": 3,
+        "name": "gaming pad",
+        "type": "computer",
+        "model": "iPad Air",
+        "longitude": "-73.999882",
+        "latitude": "40.740851",
+        "power": "80"
+    },
+    {
+        "id": 4,
+        "name": "my car",
+        "type": "viechle",
+        "model": "Tesla Model S",
+        "longitude": "-73.999872",
+        "latitude": "40.712472",
+        "power": "70"
+    }
+]

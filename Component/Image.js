@@ -1,0 +1,1 @@
+export const QR = require('./bamboozled.png'); 
