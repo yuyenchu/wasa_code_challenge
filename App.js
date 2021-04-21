@@ -5,6 +5,7 @@ import Devices from './Component/Devices';
 import Map from './Component/Map';
 import Help from './Component/Help';
 
+// url for fake json api, the same data is stored in data.json
 const url = "https://mocki.io/v1/17522c0d-6476-4ae0-b408-da1deb257b47";
 
 function App() {
