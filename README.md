@@ -1,4 +1,4 @@
-This is a simple device tracking app for demo purposes, please do not use it in production.
+This is a simple device tracking app for demo purposes, please do not use it in production. Here's a link for the [fake json api](https://mocki.io/v1/17522c0d-6476-4ae0-b408-da1deb257b47), and mock up data is also contained in file [data.json](https://github.com/yuyenchu/wasa_code_challenge/blob/master/data.json). 
 
 ## App menu
 There is a spped dial botton at the bottom right corner of the screen, it can be used to navigate through all pages. Note that clicking it while the speed dial menu is open will return to Home page.
