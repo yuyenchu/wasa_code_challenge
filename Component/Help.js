@@ -14,7 +14,7 @@ function Help(props) {
                 go checkout
             </Text>
             <Text style={styles.headline}>  
-                https://next-react-a3ced.web.app/
+                https://andrew-next.vercel.app/
             </Text>
             <Text style={styles.headline}>  
                  Have fun exploring this app!
